@@ -1,0 +1,9 @@
+The best output was generated at epoch number 95
+
+The image file name 'Output_Image_epoch-95' describes output image for epoch 95
+
+Ckpt Files for both generator and discriminator are included along with this submission.These filenames start with "Best" Word.
+
+
+Along with this file submitting all output ckpt and output images as zip file(Total_Output_Images_and weights_epoch) for reference
+
